@@ -1,0 +1,17 @@
+.cont{
+	width: 240px;
+	height: 560px;
+	padding: 20px;
+	background-color: #FFFFFF;
+}
+.img2{
+	width: 240px;
+	height: 400px;
+}
+.right-cont{
+	display: flex;
+	justify-content: space-around;
+}
+.cont p{
+	line-height: 26px;
+}

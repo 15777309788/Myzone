@@ -1,0 +1,30 @@
+.r-up-cont{
+	width: 1100px;
+	height: 260px;
+	display: flex;
+	padding: 40px;
+}
+.img2{
+	width: 200px;
+	height: 260px;
+}
+.intro-cont{
+	margin-left: 80px;
+}
+.intro-cont p{
+	line-height: 32px;
+}
+.down-cont{
+	width: 1150px;
+	height: 210px;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+.img3{
+	width: 150px;
+	height: 200px;
+}
+.a-img h3{
+	text-align: center;
+}

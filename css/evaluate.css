@@ -1,0 +1,25 @@
+.right-cont{
+	display: flex;
+}
+.cont1{
+	height: 240px;
+	margin-bottom: 30px;
+	display: flex;
+	background-color: #FFFFFF;
+}
+.cont{
+	height: 540px;
+	padding: 30px;
+}
+.juge{
+	padding: 30px;
+	font-size: 18px;
+	line-height: 30px;
+}
+.img2{
+	width: 300px;
+	height: 240px;
+}
+.content1{
+	margin: 30px;
+}
